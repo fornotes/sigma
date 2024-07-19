@@ -4,7 +4,7 @@ status: experimental
 description: Detects potential DLL sideloading of "MpSvc.dll".
 references:
     - https://hijacklibs.net/entries/microsoft/built-in/mpsvc.html
-author: Nasreddine Bencherchali (Nextron Systems), Wietze Beukema
+author: Nasreddine Bencherchali (Nextron Systems), Wietze Beukema, fornotes
 date: 2024/07/11
 tags:
     - attack.defense_evasion
